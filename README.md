@@ -4,4 +4,4 @@
 
 ## VCC stands for VIP-Token Centric Compression
 
-### We are waiting for disclosure approval process in AWS before we can release the code, and it is likely to be finished by Nov 10, 2023. 
+### We are waiting for disclosure approval process in AWS before we can release the code, and it is likely to be finished before Nov 10, 2023. 
