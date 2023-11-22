@@ -1,3 +1,5 @@
+# Update Nov 22 2023: The official repo was moved to [vip-token-centric-compression](https://github.com/awslabs/vip-token-centric-compression)
+
 # Official Repo for VCC: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
